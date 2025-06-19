@@ -26,8 +26,4 @@ A simple and intuitive task management web application built with **React.js**, 
 ---
 
 ## 📷 Screenshots
-
-> *(You can add screenshots here later using this format)*
-
-```markdown
-![App Screenshot](./screenshots/todo-screenshot1.png)
+![Screenshot 2025-06-19 150255](https://github.com/user-attachments/assets/edfaf538-3736-4e39-ac8e-84c081d9dc5c)
