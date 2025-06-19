@@ -1,12 +1,33 @@
-# React + Vite
+# 📝 To-Do App - React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and intuitive task management web application built with **React.js**, allowing users to add, complete, and delete daily tasks efficiently.
 
-Currently, two official plugins are available:
+> 🚀 [Live Demo on Vercel](https://to-do-app-react-project-888h.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Add new tasks
+- 🕒 Mark tasks as complete
+- 🗑️ Delete tasks
+- 💾 State managed with React `useState`
+- 📱 Responsive design (mobile-first)
+
+---
+
+## 🛠️ Built With
+
+- [React.js](https://react.dev/)
+- [Vite](https://vitejs.dev/) (for fast dev experience)
+- [Tailwind CSS](https://tailwindcss.com/) (optional – if used)
+- [Vercel](https://vercel.com/) for deployment
+
+---
+
+## 📷 Screenshots
+
+> *(You can add screenshots here later using this format)*
+
+```markdown
+![App Screenshot](./screenshots/todo-screenshot1.png)
