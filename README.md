@@ -30,12 +30,15 @@ A simple and intuitive task management web application built with **React.js**, 
 
 ## 🚀 Getting Started
 1. Clone the repository:
-
-```git clone https://github.com/medhat12866/To-Do-App-React-Project.git
+```
+git clone https://github.com/medhat12866/To-Do-App-React-Project.git
 cd To-Do-App-React-Project.
-
+```
 2. Install dependencies:
+```
 npm install
-
+```
 3. Run the app locally:
+```
 npm run dev
+```
